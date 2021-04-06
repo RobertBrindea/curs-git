@@ -2,5 +2,7 @@ def main():
     print("Hello world")
     for i in range(5):
         print(i)
-main()
+    return 0
+if __name__ == '__main__':
+    main()
     
