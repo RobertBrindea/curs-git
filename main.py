@@ -1,5 +1,5 @@
 def main():
-    print("Hello world")
+    print("Hello everyone")
     for i in range(5):
         print(i)
     return 0
